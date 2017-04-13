@@ -1,6 +1,7 @@
 public class Test{
 	public static void main(String args[]){
 	
-	System.out.println("오늘은 내 생일이에요");
+	System.out.println("내생일");
+	System.out.println("입니다");
 	}
 }
